@@ -30,10 +30,10 @@ f(t+1)=4*f(t)*(1-f(t))
 Используйте функцию ЕСЛИМН и ABS (для поиска модуля разницы)
 
 # Решение
-[1 Задача]()
+[1 Задача](https://github.com/allseenn/excel/blob/main/02.Tasks/01.xlsx)
 
-[2 Задача]()
+[2 Задача](https://github.com/allseenn/excel/blob/main/02.Tasks/02.xlsx)
 
-[3 Задача]()
+[3 Задача](https://github.com/allseenn/excel/blob/main/02.Tasks/03.xlsx)
 
-[4 Задача]()
+[4 Задача](https://github.com/allseenn/excel/blob/main/02.Tasks/04.xlsx)
