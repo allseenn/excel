@@ -15,5 +15,5 @@
 - Задача 3
 - Задача 4
 На гитхаб выложено два формата фалов:
-- [XLSX]()
-- [PDF]()
+- [XLSX](https://github.com/allseenn/excel/blob/main/03.Tasks/Tasks.xlsx)
+- [PDF](https://github.com/allseenn/excel/blob/main/03.Tasks/Tasks.pdf)
