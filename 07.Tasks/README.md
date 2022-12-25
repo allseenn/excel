@@ -15,7 +15,7 @@
 ```
 Function minus(first As Variant, second As Variant)
 If IsNumeric(first) = False Or IsNumeric(second) = False Then
-    minus = "Enter a namber!"
+    minus = "Enter a number!"
 Exit Function
     ElseIf (first - second) < 0 Then
         minus = -(first - second)
